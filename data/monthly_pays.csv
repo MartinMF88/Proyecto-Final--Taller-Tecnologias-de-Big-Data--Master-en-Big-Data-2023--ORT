@@ -1,0 +1,1001 @@
+user_id,plan,mensual_cost,currency,country,has_monthly_purchases,purchase_value_local_currency
+1,C,$38.90 ,Zloty,Poland,FALSE,$0.00 
+2,D,$62.02 ,Peso,Colombia,FALSE,$0.00 
+3,C,$99.53 ,Rupiah,Indonesia,TRUE,$768.87 
+4,C,$128.35 ,Naira,Nigeria,FALSE,$0.00 
+5,D,$46.69 ,Yuan Renminbi,China,TRUE,"$1,558.45 "
+6,A,$43.57 ,Dollar,United States,FALSE,$0.00 
+7,A,$38.71 ,Franc,Cameroon,FALSE,$0.00 
+8,B,$118.55 ,Ruble,Russia,FALSE,$0.00 
+9,D,$143.93 ,Euro,Germany,FALSE,$0.00 
+10,C,$62.66 ,Hryvnia,Ukraine,TRUE,"$1,221.21 "
+11,B,$113.58 ,Rupiah,Indonesia,TRUE,"$2,257.96 "
+12,B,$111.53 ,Franc,Ivory Coast,FALSE,$0.00 
+13,D,$61.68 ,Ruble,Russia,FALSE,$0.00 
+14,C,$75.93 ,Real,Brazil,TRUE,$427.86 
+15,B,$81.10 ,Baht,Thailand,TRUE,"$1,218.14 "
+16,A,$99.95 ,Peso,Philippines,TRUE,$801.58 
+17,D,$80.99 ,Krona,Sweden,TRUE,"$1,439.72 "
+18,D,$77.48 ,Yuan Renminbi,China,FALSE,$0.00 
+19,C,$149.26 ,Ruble,Russia,FALSE,$0.00 
+20,A,$92.08 ,Peso,Philippines,FALSE,$0.00 
+21,C,$114.73 ,Yuan Renminbi,China,FALSE,$0.00 
+22,B,$140.03 ,Rupiah,Indonesia,FALSE,$0.00 
+23,A,$90.79 ,Dollar,United States,FALSE,$0.00 
+24,B,$95.14 ,Sol,Peru,FALSE,$0.00 
+25,B,$140.70 ,Bolivar,Venezuela,FALSE,$0.00 
+26,D,$61.66 ,Yuan Renminbi,China,FALSE,$0.00 
+27,D,$56.81 ,Ruble,Russia,TRUE,"$1,721.52 "
+28,B,$148.38 ,Rupiah,Indonesia,TRUE,$988.13 
+29,B,$116.74 ,Peso,Colombia,TRUE,"$1,218.59 "
+30,D,$110.39 ,Yuan Renminbi,China,TRUE,$598.96 
+31,D,$52.99 ,Euro,France,TRUE,"$2,009.40 "
+32,D,$123.82 ,Rupiah,Indonesia,FALSE,$0.00 
+33,A,$120.18 ,Franc,Ivory Coast,TRUE,"$1,449.00 "
+34,B,$100.98 ,Real,Brazil,FALSE,$0.00 
+35,A,$100.21 ,Ruble,Russia,FALSE,$0.00 
+36,B,$107.62 ,Peso,Colombia,TRUE,"$2,398.70 "
+37,C,$104.19 ,Dram,Armenia,FALSE,$0.00 
+38,A,$116.34 ,Yuan Renminbi,China,FALSE,$0.00 
+39,B,$49.40 ,Ariary,Madagascar,TRUE,$116.30 
+40,D,$148.62 ,Real,Brazil,FALSE,$0.00 
+41,D,$51.10 ,Ruble,Russia,FALSE,$0.00 
+42,D,$75.01 ,Zloty,Poland,FALSE,$0.00 
+43,C,$73.89 ,Peso,Mexico,TRUE,"$1,403.30 "
+44,A,$147.88 ,Rial,Saudi Arabia,FALSE,$0.00 
+45,B,$110.45 ,Yuan Renminbi,China,FALSE,$0.00 
+46,D,$63.22 ,Krona,Sweden,TRUE,$873.11 
+47,B,$99.21 ,Peso,Argentina,FALSE,$0.00 
+48,D,$102.57 ,Ruble,Russia,FALSE,$0.00 
+49,C,$60.32 ,Zloty,Poland,FALSE,$0.00 
+50,D,$94.16 ,Yuan Renminbi,China,TRUE,"$2,114.78 "
+51,A,$66.14 ,Zloty,Poland,FALSE,$0.00 
+52,C,$111.88 ,Peso,Argentina,TRUE,$259.11 
+53,D,$37.28 ,Quetzal,Guatemala,FALSE,$0.00 
+54,D,$61.00 ,Rupiah,Indonesia,FALSE,$0.00 
+55,A,$91.29 ,Dinar,Serbia,TRUE,"$2,159.79 "
+56,D,$45.50 ,Ruble,Russia,TRUE,"$1,641.61 "
+57,D,$138.29 ,Yuan Renminbi,China,TRUE,$832.41 
+58,D,$59.84 ,Sol,Peru,TRUE,"$1,993.38 "
+59,B,$123.10 ,Ruble,Russia,FALSE,$0.00 
+60,B,$149.37 ,Yuan Renminbi,China,FALSE,$0.00 
+61,B,$50.48 ,Peso,Philippines,FALSE,$0.00 
+62,A,$31.18 ,Yuan Renminbi,China,TRUE,"$2,827.26 "
+63,D,$119.58 ,Rupiah,Indonesia,TRUE,$846.82 
+64,C,$149.69 ,Rupiah,Indonesia,TRUE,"$2,467.79 "
+65,D,$80.61 ,Rupiah,Indonesia,TRUE,$845.01 
+66,C,$72.64 ,Yuan Renminbi,China,TRUE,"$1,018.97 "
+67,B,$149.42 ,Lek,Albania,TRUE,"$1,535.58 "
+68,C,$34.17 ,Peso,Philippines,FALSE,$0.00 
+69,B,$77.83 ,Yuan Renminbi,China,FALSE,$0.00 
+70,C,$87.07 ,Ariary,Madagascar,FALSE,$0.00 
+71,B,$67.19 ,Ruble,Russia,FALSE,$0.00 
+72,C,$86.81 ,Peso,Mexico,TRUE,"$2,630.64 "
+73,C,$79.60 ,Rial,Iran,FALSE,$0.00 
+74,D,$133.31 ,Peso,Philippines,TRUE,"$2,777.26 "
+75,B,$53.52 ,Rupiah,Indonesia,TRUE,"$1,737.32 "
+76,B,$148.17 ,Yuan Renminbi,China,FALSE,$0.00 
+77,C,$111.79 ,Yen,Japan,TRUE,"$2,962.45 "
+78,C,$78.86 ,Real,Brazil,TRUE,"$2,735.43 "
+79,B,$49.15 ,Euro,Portugal,FALSE,$0.00 
+80,A,$86.00 ,Rupiah,Indonesia,FALSE,$0.00 
+81,D,$110.82 ,Won,South Korea,FALSE,$0.00 
+82,A,$139.00 ,Ringgit,Malaysia,TRUE,"$2,489.98 "
+83,D,$143.06 ,Nakfa,Eritrea,FALSE,$0.00 
+84,A,$80.97 ,Peso,Philippines,TRUE,"$1,794.31 "
+85,B,$58.09 ,Rupiah,Indonesia,TRUE,"$2,881.93 "
+86,A,$102.40 ,Peso,Mexico,TRUE,$633.98 
+87,A,$50.01 ,Yuan Renminbi,China,FALSE,$0.00 
+88,A,$70.48 ,Dong,Vietnam,TRUE,"$1,761.43 "
+89,C,$100.36 ,Tala,Samoa,FALSE,$0.00 
+90,B,$31.83 ,Boliviano,Bolivia,FALSE,$0.00 
+91,A,$57.15 ,Rupiah,Indonesia,FALSE,$0.00 
+92,C,$120.10 ,Dollar,United States,FALSE,$0.00 
+93,B,$85.40 ,Hryvnia,Ukraine,TRUE,"$2,585.11 "
+94,C,$88.35 ,Euro,France,TRUE,"$1,689.89 "
+95,A,$128.14 ,Euro,Greece,TRUE,"$1,147.49 "
+96,D,$64.56 ,Yuan Renminbi,China,TRUE,$816.08 
+97,C,$127.53 ,Yuan Renminbi,China,TRUE,"$2,300.49 "
+98,A,$108.07 ,Cedi,Ghana,TRUE,"$2,935.28 "
+99,B,$149.40 ,Yuan Renminbi,China,FALSE,$0.00 
+100,B,$44.69 ,Euro,Italy,TRUE,$443.08 
+101,C,$74.74 ,Zloty,Poland,FALSE,$0.00 
+102,D,$102.56 ,Yuan Renminbi,China,TRUE,$874.50 
+103,A,$54.68 ,Baht,Thailand,FALSE,$0.00 
+104,D,$48.73 ,Lek,Albania,TRUE,"$2,433.05 "
+105,B,$127.87 ,Krona,Sweden,FALSE,$0.00 
+106,A,$90.12 ,Zloty,Poland,FALSE,$0.00 
+107,D,$83.04 ,Shekel,Israel,TRUE,$858.01 
+108,B,$101.96 ,Yuan Renminbi,China,TRUE,"$1,103.39 "
+109,D,$30.50 ,Sol,Peru,FALSE,$0.00 
+110,A,$96.66 ,Koruna,Czech Republic,TRUE,"$1,517.80 "
+111,D,$121.99 ,Peso,Argentina,FALSE,$0.00 
+112,A,$136.29 ,Yuan Renminbi,China,FALSE,$0.00 
+113,C,$118.54 ,Real,Brazil,TRUE,$350.87 
+114,A,$107.47 ,Lari,Georgia,TRUE,"$2,560.13 "
+115,B,$69.96 ,Euro,Slovenia,FALSE,$0.00 
+116,D,$34.52 ,Won,North Korea,TRUE,"$1,227.98 "
+117,B,$75.24 ,Rupiah,Indonesia,TRUE,"$2,964.34 "
+118,D,$73.20 ,Dollar,United States,TRUE,$544.58 
+119,D,$84.58 ,Yuan Renminbi,China,TRUE,"$2,803.01 "
+120,B,$109.96 ,Rupiah,Indonesia,TRUE,"$2,211.38 "
+121,A,$142.96 ,Rupiah,Indonesia,TRUE,"$1,762.76 "
+122,C,$101.91 ,Dinar,Serbia,FALSE,$0.00 
+123,A,$122.09 ,Peso,Philippines,TRUE,$410.18 
+124,A,$69.58 ,Yuan Renminbi,China,TRUE,$980.63 
+125,A,$84.48 ,Franc,Togo,TRUE,$479.85 
+126,B,$100.38 ,Birr,Ethiopia,FALSE,$0.00 
+127,B,$100.11 ,Shilling,Tanzania,FALSE,$0.00 
+128,B,$117.67 ,Yuan Renminbi,China,TRUE,$877.31 
+129,B,$40.19 ,Yen,Japan,FALSE,$0.00 
+130,C,$85.86 ,Rupiah,Indonesia,TRUE,"$1,484.34 "
+131,A,$36.24 ,Rupiah,Indonesia,TRUE,"$1,243.69 "
+132,B,$110.83 ,Peso,Philippines,TRUE,"$1,257.92 "
+133,A,$83.25 ,Euro,Greece,TRUE,"$1,183.18 "
+134,C,$36.96 ,Yuan Renminbi,China,TRUE,"$2,371.09 "
+135,A,$148.43 ,Yuan Renminbi,China,TRUE,"$2,850.15 "
+136,A,$92.59 ,Rupiah,Indonesia,FALSE,$0.00 
+137,A,$97.91 ,Pula,Botswana,FALSE,$0.00 
+138,C,$81.28 ,Yuan Renminbi,China,TRUE,$800.28 
+139,B,$71.61 ,Yuan Renminbi,China,FALSE,$0.00 
+140,B,$90.44 ,Peso,Mexico,FALSE,$0.00 
+141,B,$83.88 ,Yen,Japan,TRUE,"$1,783.70 "
+142,D,$77.75 ,Peso,Philippines,TRUE,"$1,954.07 "
+143,C,$104.17 ,Peso,Argentina,TRUE,$699.79 
+144,D,$94.35 ,Ringgit,Malaysia,TRUE,"$2,374.92 "
+145,C,$51.73 ,Yuan Renminbi,China,TRUE,"$1,434.21 "
+146,C,$99.02 ,Rupiah,Indonesia,FALSE,$0.00 
+147,B,$95.41 ,Yuan Renminbi,China,TRUE,"$1,745.46 "
+148,A,$109.10 ,Euro,Finland,TRUE,"$1,017.93 "
+149,B,$88.65 ,Rial,Iran,TRUE,$904.03 
+150,C,$103.84 ,Shekel,Palestinian Territory,TRUE,"$1,899.56 "
+151,D,$72.11 ,Dirham,Morocco,FALSE,$0.00 
+152,C,$108.39 ,Peso,Philippines,TRUE,"$2,207.67 "
+153,B,$95.33 ,Somoni,Tajikistan,FALSE,$0.00 
+154,A,$72.03 ,Ruble,Russia,FALSE,$0.00 
+155,B,$63.71 ,Rupiah,Indonesia,FALSE,$0.00 
+156,C,$119.00 ,Yuan Renminbi,China,TRUE,$908.59 
+157,C,$33.86 ,Yen,Japan,TRUE,"$1,701.41 "
+158,B,$124.46 ,Rupiah,Indonesia,FALSE,$0.00 
+159,B,$121.58 ,Rupiah,Indonesia,TRUE,$938.48 
+160,A,$38.05 ,Euro,France,TRUE,$996.50 
+161,D,$32.94 ,Peso,Philippines,FALSE,$0.00 
+162,B,$124.97 ,Peso,Colombia,FALSE,$0.00 
+163,C,$55.73 ,Kyat,Myanmar,TRUE,"$2,324.74 "
+164,D,$66.40 ,Peso,Argentina,TRUE,"$1,272.38 "
+165,C,$48.16 ,Euro,Portugal,TRUE,"$2,922.30 "
+166,A,$75.45 ,Yuan Renminbi,China,FALSE,$0.00 
+167,A,$79.80 ,Manat,Azerbaijan,FALSE,$0.00 
+168,A,$95.99 ,Ruble,Russia,FALSE,$0.00 
+169,A,$145.96 ,Leu,Moldova,TRUE,"$2,348.08 "
+170,D,$125.71 ,Yen,Japan,TRUE,$243.82 
+171,D,$117.44 ,Ruble,Russia,FALSE,$0.00 
+172,D,$134.09 ,Krona,Sweden,FALSE,$0.00 
+173,B,$148.96 ,Yuan Renminbi,China,FALSE,$0.00 
+174,A,$83.88 ,Ruble,Russia,TRUE,"$1,022.94 "
+175,C,$117.62 ,Pound,Syria,TRUE,"$2,536.27 "
+176,B,$123.38 ,Real,Brazil,FALSE,$0.00 
+177,B,$109.35 ,Zloty,Poland,FALSE,$0.00 
+178,D,$68.95 ,Yuan Renminbi,China,TRUE,"$2,321.82 "
+179,C,$112.82 ,Yuan Renminbi,China,FALSE,$0.00 
+180,D,$77.00 ,Rupiah,Indonesia,TRUE,"$2,318.43 "
+181,D,$110.82 ,Euro,Estonia,TRUE,"$2,418.28 "
+182,C,$41.25 ,Rupiah,Indonesia,TRUE,$941.88 
+183,A,$97.34 ,Dinar,Jordan,FALSE,$0.00 
+184,C,$146.83 ,Peso,Cuba,TRUE,$749.46 
+185,B,$42.92 ,Peso,Philippines,TRUE,"$2,869.80 "
+186,A,$105.40 ,Ruble,Russia,FALSE,$0.00 
+187,D,$148.27 ,Rupiah,Indonesia,FALSE,$0.00 
+188,A,$36.70 ,Sol,Peru,TRUE,"$2,837.83 "
+189,B,$98.27 ,Dinar,Libya,TRUE,$524.04 
+190,C,$105.18 ,Shilling,Tanzania,TRUE,$780.34 
+191,C,$95.71 ,Loti,Lesotho,TRUE,$213.37 
+192,B,$44.98 ,Baht,Thailand,TRUE,"$1,359.61 "
+193,D,$94.02 ,Euro,France,TRUE,"$1,309.09 "
+194,D,$86.21 ,Dollar,New Zealand,TRUE,"$2,870.59 "
+195,D,$53.97 ,Peso,Dominican Republic,TRUE,"$2,807.07 "
+196,C,$34.44 ,Ruble,Russia,TRUE,"$2,548.64 "
+197,B,$43.11 ,Zloty,Poland,FALSE,$0.00 
+198,A,$143.17 ,Euro,Portugal,FALSE,$0.00 
+199,A,$31.98 ,Sol,Peru,FALSE,$0.00 
+200,C,$144.87 ,Zloty,Poland,TRUE,"$2,435.98 "
+201,B,$61.60 ,Manat,Azerbaijan,FALSE,$0.00 
+202,D,$92.54 ,Dinar,Iraq,TRUE,"$2,584.35 "
+203,C,$79.08 ,Yuan Renminbi,China,TRUE,$408.58 
+204,B,$88.72 ,Som,Uzbekistan,FALSE,$0.00 
+205,A,$71.95 ,Shekel,Palestinian Territory,FALSE,$0.00 
+206,B,$111.29 ,Yuan Renminbi,China,FALSE,$0.00 
+207,B,$84.48 ,Yuan Renminbi,China,FALSE,$0.00 
+208,C,$85.46 ,Ruble,Russia,TRUE,$109.05 
+209,A,$35.31 ,Ruble,Russia,FALSE,$0.00 
+210,B,$80.31 ,Ruble,Russia,FALSE,$0.00 
+211,B,$74.98 ,Shekel,Palestinian Territory,FALSE,$0.00 
+212,C,$137.86 ,Krona,Sweden,TRUE,"$2,191.85 "
+213,B,$60.51 ,Euro,Greece,FALSE,$0.00 
+214,D,$68.12 ,Real,Brazil,TRUE,"$1,903.53 "
+215,B,$103.74 ,Ruble,Russia,TRUE,$834.89 
+216,D,$114.89 ,Dalasi,Gambia,TRUE,$525.38 
+217,B,$81.11 ,Rupiah,Indonesia,TRUE,"$2,035.76 "
+218,A,$106.56 ,Franc,Chad,FALSE,$0.00 
+219,B,$136.73 ,Real,Brazil,FALSE,$0.00 
+220,A,$101.41 ,Zloty,Poland,TRUE,"$2,490.83 "
+221,D,$43.07 ,Dollar,Canada,TRUE,$742.28 
+222,D,$107.87 ,Peso,Philippines,TRUE,"$2,749.22 "
+223,B,$38.78 ,Yuan Renminbi,China,FALSE,$0.00 
+224,D,$110.32 ,Krona,Sweden,FALSE,$0.00 
+225,C,$102.47 ,Ruble,Russia,FALSE,$0.00 
+226,C,$146.61 ,Peso,Philippines,TRUE,$190.40 
+227,A,$31.13 ,Real,Brazil,TRUE,"$1,577.58 "
+228,B,$86.56 ,Yuan Renminbi,China,FALSE,$0.00 
+229,A,$101.50 ,Ruble,Russia,FALSE,$0.00 
+230,B,$129.66 ,Ruble,Russia,TRUE,"$2,055.79 "
+231,D,$87.67 ,Rupiah,Indonesia,TRUE,"$1,917.66 "
+232,B,$147.83 ,Koruna,Czech Republic,FALSE,$0.00 
+233,A,$127.99 ,Peso,Philippines,TRUE,"$2,205.15 "
+234,D,$98.08 ,Yuan Renminbi,China,FALSE,$0.00 
+235,C,$88.35 ,Peso,Philippines,FALSE,$0.00 
+236,C,$111.21 ,Dirham,Morocco,FALSE,$0.00 
+237,C,$44.94 ,Euro,Netherlands,FALSE,$0.00 
+238,A,$53.69 ,Hryvnia,Ukraine,TRUE,"$2,875.51 "
+239,A,$111.76 ,Koruna,Czech Republic,TRUE,"$1,990.50 "
+240,C,$53.18 ,Peso,Philippines,TRUE,"$1,267.66 "
+241,A,$30.76 ,Krona,Sweden,FALSE,$0.00 
+242,D,$106.12 ,Dollar,Canada,TRUE,$625.75 
+243,D,$134.82 ,Ruble,Russia,FALSE,$0.00 
+244,C,$113.79 ,Ruble,Russia,FALSE,$0.00 
+245,C,$98.79 ,Gourde,Haiti,FALSE,$0.00 
+246,B,$52.57 ,Euro,Greece,FALSE,$0.00 
+247,D,$73.47 ,Euro,Portugal,TRUE,"$2,929.52 "
+248,B,$76.60 ,Peso,Mexico,TRUE,$136.89 
+249,B,$89.56 ,Pound,Egypt,TRUE,"$2,346.42 "
+250,A,$69.21 ,Yuan Renminbi,China,FALSE,$0.00 
+251,B,$61.37 ,Yuan Renminbi,China,FALSE,$0.00 
+252,C,$127.40 ,Zloty,Poland,TRUE,"$1,381.98 "
+253,D,$84.18 ,Dollar,United States,TRUE,"$1,253.35 "
+254,B,$125.83 ,Euro,France,TRUE,"$1,838.76 "
+255,B,$89.45 ,Euro,Portugal,FALSE,$0.00 
+256,D,$49.95 ,Yuan Renminbi,China,TRUE,$609.52 
+257,A,$41.54 ,Peso,Philippines,TRUE,"$2,824.25 "
+258,A,$68.76 ,Dollar,United States,FALSE,$0.00 
+259,C,$61.71 ,Rupiah,Indonesia,FALSE,$0.00 
+260,B,$135.59 ,Yuan Renminbi,China,FALSE,$0.00 
+261,B,$61.46 ,Rupiah,Indonesia,TRUE,"$1,869.31 "
+262,B,$92.46 ,Peso,Argentina,TRUE,"$2,472.30 "
+263,D,$148.02 ,Yuan Renminbi,China,TRUE,$890.67 
+264,A,$122.81 ,Yuan Renminbi,China,FALSE,$0.00 
+265,B,$103.82 ,Rupiah,Indonesia,FALSE,$0.00 
+266,C,$140.90 ,Ruble,Russia,FALSE,$0.00 
+267,D,$47.49 ,Baht,Thailand,TRUE,$152.11 
+268,C,$104.27 ,Krona,Sweden,FALSE,$0.00 
+269,D,$36.67 ,Rial,Iran,FALSE,$0.00 
+270,C,$131.47 ,Euro,France,TRUE,$133.14 
+271,A,$103.95 ,Yuan Renminbi,China,TRUE,$772.13 
+272,A,$74.34 ,Rupiah,Indonesia,TRUE,"$1,647.51 "
+273,B,$81.33 ,Euro,Germany,TRUE,"$2,001.30 "
+274,D,$112.52 ,Rupiah,Indonesia,TRUE,"$2,394.32 "
+275,D,$67.53 ,Dollar,Puerto Rico,FALSE,$0.00 
+276,D,$133.61 ,Kwacha,Zambia,TRUE,"$1,572.47 "
+277,A,$75.82 ,Sol,Peru,FALSE,$0.00 
+278,D,$110.72 ,Shekel,Palestinian Territory,TRUE,"$1,137.22 "
+279,C,$118.21 ,Euro,Spain,TRUE,$387.73 
+280,B,$89.55 ,Rupiah,Indonesia,FALSE,$0.00 
+281,C,$83.01 ,Sol,Peru,FALSE,$0.00 
+282,C,$36.06 ,Peso,Colombia,FALSE,$0.00 
+283,A,$57.97 ,Real,Brazil,FALSE,$0.00 
+284,D,$42.00 ,Shilling,Kenya,TRUE,"$1,655.95 "
+285,B,$125.58 ,Boliviano,Bolivia,FALSE,$0.00 
+286,A,$104.01 ,Euro,France,FALSE,$0.00 
+287,B,$101.08 ,Yuan Renminbi,China,FALSE,$0.00 
+288,B,$123.46 ,Dollar,Suriname,TRUE,"$1,715.93 "
+289,A,$73.18 ,Dollar,New Zealand,FALSE,$0.00 
+290,B,$101.60 ,Peso,Philippines,TRUE,"$1,740.81 "
+291,D,$34.54 ,Yuan Renminbi,China,TRUE,"$1,623.87 "
+292,A,$92.56 ,Rupiah,Indonesia,TRUE,"$2,343.16 "
+293,B,$56.24 ,Cordoba,Nicaragua,FALSE,$0.00 
+294,D,$94.86 ,Dram,Armenia,TRUE,$188.22 
+295,A,$139.41 ,Yuan Renminbi,China,FALSE,$0.00 
+296,A,$129.77 ,Shilling,Kenya,TRUE,$619.84 
+297,B,$140.89 ,Peso,Philippines,FALSE,$0.00 
+298,C,$53.94 ,Ruble,Russia,TRUE,"$2,324.49 "
+299,D,$74.70 ,Euro,Greece,TRUE,"$2,139.09 "
+300,C,$130.59 ,Peso,Philippines,FALSE,$0.00 
+301,B,$78.18 ,Leone,Sierra Leone,TRUE,"$1,287.68 "
+302,B,$38.89 ,Yuan Renminbi,China,FALSE,$0.00 
+303,D,$67.58 ,Yuan Renminbi,China,FALSE,$0.00 
+304,A,$79.80 ,Zloty,Poland,FALSE,$0.00 
+305,C,$89.75 ,Yuan Renminbi,China,TRUE,"$2,953.06 "
+306,A,$76.34 ,Peso,Argentina,FALSE,$0.00 
+307,B,$112.62 ,Yuan Renminbi,China,FALSE,$0.00 
+308,D,$53.42 ,Euro,Finland,TRUE,$458.46 
+309,B,$142.55 ,Yuan Renminbi,China,FALSE,$0.00 
+310,A,$53.25 ,Peso,Colombia,TRUE,$649.63 
+311,A,$124.75 ,Real,Brazil,FALSE,$0.00 
+312,A,$125.95 ,Peso,Dominican Republic,FALSE,$0.00 
+313,D,$63.51 ,Rupiah,Indonesia,FALSE,$0.00 
+314,B,$101.80 ,Yuan Renminbi,China,TRUE,"$2,572.17 "
+315,A,$78.55 ,Ariary,Madagascar,TRUE,"$2,726.91 "
+316,D,$148.28 ,Real,Brazil,TRUE,"$1,121.03 "
+317,D,$51.83 ,Yuan Renminbi,China,FALSE,$0.00 
+318,D,$106.04 ,Euro,France,FALSE,$0.00 
+319,A,$85.83 ,Peso,Dominican Republic,TRUE,"$2,489.66 "
+320,B,$41.73 ,Sol,Peru,FALSE,$0.00 
+321,A,$41.85 ,Krona,Sweden,FALSE,$0.00 
+322,C,$90.32 ,Yuan Renminbi,China,FALSE,$0.00 
+323,C,$41.55 ,Peso,Argentina,FALSE,$0.00 
+324,A,$72.73 ,Koruna,Czech Republic,TRUE,"$2,790.97 "
+325,C,$102.60 ,Ruble,Russia,TRUE,"$2,165.07 "
+326,C,$89.58 ,Sol,Peru,FALSE,$0.00 
+327,B,$89.63 ,Euro,France,TRUE,$311.33 
+328,D,$134.35 ,Ruble,Russia,FALSE,$0.00 
+329,B,$126.06 ,Rupiah,Indonesia,FALSE,$0.00 
+330,D,$69.60 ,Rupiah,Indonesia,FALSE,$0.00 
+331,B,$118.22 ,Kuna,Croatia,TRUE,"$2,267.83 "
+332,D,$121.41 ,Ruble,Belarus,FALSE,$0.00 
+333,D,$77.29 ,Real,Brazil,TRUE,"$1,698.50 "
+334,B,$101.27 ,Tugrik,Mongolia,FALSE,$0.00 
+335,C,$100.30 ,Dram,Armenia,FALSE,$0.00 
+336,D,$70.03 ,Ruble,Russia,FALSE,$0.00 
+337,A,$107.84 ,Peso,Cuba,TRUE,"$1,192.06 "
+338,B,$63.77 ,Peso,Colombia,TRUE,$641.21 
+339,D,$143.37 ,Peso,Argentina,TRUE,$157.22 
+340,D,$128.53 ,Denar,Macedonia,FALSE,$0.00 
+341,B,$129.66 ,Dollar,United States,FALSE,$0.00 
+342,B,$127.05 ,Zloty,Poland,FALSE,$0.00 
+343,B,$93.15 ,Peso,Mexico,FALSE,$0.00 
+344,B,$134.97 ,Euro,Finland,FALSE,$0.00 
+345,A,$132.01 ,Yuan Renminbi,China,TRUE,$206.44 
+346,B,$118.90 ,Rupiah,Indonesia,FALSE,$0.00 
+347,A,$103.79 ,Ruble,Russia,FALSE,$0.00 
+348,D,$108.72 ,Yuan Renminbi,China,TRUE,"$1,472.38 "
+349,A,$119.13 ,Rial,Yemen,TRUE,"$1,282.18 "
+350,A,$63.24 ,Hryvnia,Ukraine,TRUE,"$1,509.33 "
+351,D,$70.88 ,Bolivar,Venezuela,FALSE,$0.00 
+352,B,$144.54 ,Euro,Greece,FALSE,$0.00 
+353,C,$100.52 ,Peso,Colombia,FALSE,$0.00 
+354,D,$136.63 ,Rupiah,Indonesia,FALSE,$0.00 
+355,C,$62.51 ,Franc,Ivory Coast,TRUE,$701.96 
+356,C,$39.45 ,Peso,Colombia,TRUE,"$2,518.67 "
+357,C,$36.82 ,Yuan Renminbi,China,TRUE,"$1,606.90 "
+358,B,$76.14 ,Krona,Iceland,TRUE,"$2,485.88 "
+359,C,$31.65 ,Franc,Cameroon,FALSE,$0.00 
+360,D,$96.22 ,Euro,Portugal,TRUE,$304.79 
+361,A,$50.74 ,Euro,Portugal,TRUE,$130.61 
+362,D,$125.26 ,Rand,South Africa,FALSE,$0.00 
+363,A,$61.47 ,Krone,Norway,TRUE,"$2,433.95 "
+364,D,$116.71 ,Yuan Renminbi,China,FALSE,$0.00 
+365,C,$55.32 ,Hryvnia,Ukraine,FALSE,$0.00 
+366,A,$45.97 ,Ruble,Russia,TRUE,"$1,152.99 "
+367,B,$70.82 ,Peso,Philippines,FALSE,$0.00 
+368,C,$106.31 ,Peso,Philippines,TRUE,"$2,446.71 "
+369,D,$148.93 ,Krona,Sweden,FALSE,$0.00 
+370,D,$122.29 ,Dinar,Serbia,TRUE,"$2,219.57 "
+371,A,$94.89 ,Peso,Philippines,FALSE,$0.00 
+372,B,$58.84 ,Euro,Portugal,TRUE,"$2,360.25 "
+373,B,$120.10 ,Yuan Renminbi,China,TRUE,$123.09 
+374,A,$34.37 ,Sol,Peru,TRUE,"$2,645.53 "
+375,C,$34.56 ,Krona,Sweden,FALSE,$0.00 
+376,B,$139.62 ,Peso,Colombia,TRUE,"$1,708.37 "
+377,D,$133.33 ,Yen,Japan,TRUE,$776.66 
+378,B,$115.21 ,Peso,Philippines,FALSE,$0.00 
+379,A,$113.09 ,Ruble,Russia,FALSE,$0.00 
+380,C,$94.39 ,Peso,Mexico,FALSE,$0.00 
+381,D,$108.70 ,Yuan Renminbi,China,TRUE,"$1,267.07 "
+382,B,$139.91 ,Ruble,Russia,FALSE,$0.00 
+383,D,$116.59 ,Dirham,Morocco,FALSE,$0.00 
+384,A,$91.23 ,Yuan Renminbi,China,FALSE,$0.00 
+385,C,$144.29 ,Rupiah,Indonesia,FALSE,$0.00 
+386,D,$97.42 ,Rupiah,Indonesia,FALSE,$0.00 
+387,C,$54.62 ,Kwacha,Zambia,FALSE,$0.00 
+388,B,$40.95 ,Yuan Renminbi,China,FALSE,$0.00 
+389,A,$124.83 ,Euro,France,FALSE,$0.00 
+390,D,$142.34 ,Peso,Philippines,TRUE,"$2,302.33 "
+391,D,$144.28 ,Yuan Renminbi,China,TRUE,"$2,443.18 "
+392,A,$81.35 ,Boliviano,Bolivia,TRUE,"$1,717.72 "
+393,A,$86.25 ,Rupiah,Indonesia,FALSE,$0.00 
+394,D,$31.35 ,Yuan Renminbi,China,FALSE,$0.00 
+395,C,$85.30 ,Denar,Macedonia,FALSE,$0.00 
+396,B,$103.04 ,Franc,Central African Republic,FALSE,$0.00 
+397,A,$121.79 ,Yuan Renminbi,China,FALSE,$0.00 
+398,A,$120.26 ,Rupiah,Indonesia,TRUE,"$1,977.26 "
+399,C,$142.02 ,Yuan Renminbi,China,TRUE,"$1,758.15 "
+400,B,$108.49 ,Zloty,Poland,FALSE,$0.00 
+401,C,$139.87 ,Rupiah,Indonesia,TRUE,"$2,767.29 "
+402,C,$77.41 ,Real,Brazil,TRUE,"$2,907.37 "
+403,B,$84.98 ,Peso,Philippines,TRUE,"$2,373.06 "
+404,A,$121.17 ,Euro,Portugal,FALSE,$0.00 
+405,A,$81.78 ,Tugrik,Mongolia,FALSE,$0.00 
+406,C,$93.05 ,Rupiah,Indonesia,FALSE,$0.00 
+407,A,$126.69 ,Rupiah,Indonesia,FALSE,$0.00 
+408,A,$78.68 ,Rupiah,Indonesia,TRUE,"$2,683.72 "
+409,D,$100.22 ,Euro,Ireland,FALSE,$0.00 
+410,B,$74.79 ,Ariary,Madagascar,FALSE,$0.00 
+411,B,$115.08 ,Euro,Portugal,FALSE,$0.00 
+412,C,$36.46 ,Euro,Aland Islands,TRUE,"$2,320.89 "
+413,C,$52.04 ,Krona,Sweden,FALSE,$0.00 
+414,A,$139.53 ,Dong,Vietnam,FALSE,$0.00 
+415,C,$34.31 ,Peso,Dominican Republic,TRUE,$204.44 
+416,C,$67.71 ,Peso,Philippines,TRUE,"$2,095.55 "
+417,D,$149.45 ,Peso,Colombia,FALSE,$0.00 
+418,D,$38.42 ,Rupiah,Indonesia,FALSE,$0.00 
+419,D,$96.99 ,Quetzal,Guatemala,TRUE,"$2,837.27 "
+420,D,$137.77 ,Ruble,Russia,TRUE,$402.77 
+421,A,$59.21 ,Ruble,Russia,FALSE,$0.00 
+422,D,$47.23 ,Yuan Renminbi,China,FALSE,$0.00 
+423,B,$63.09 ,Rupiah,Indonesia,TRUE,"$1,043.95 "
+424,C,$85.34 ,Naira,Nigeria,TRUE,"$1,917.79 "
+425,A,$112.13 ,Yuan Renminbi,China,FALSE,$0.00 
+426,B,$116.34 ,Yuan Renminbi,China,FALSE,$0.00 
+427,D,$79.11 ,Zloty,Poland,FALSE,$0.00 
+428,C,$128.33 ,Rupiah,Indonesia,TRUE,"$1,104.67 "
+429,A,$123.38 ,Yuan Renminbi,China,TRUE,$208.30 
+430,B,$35.26 ,Rupiah,Indonesia,FALSE,$0.00 
+431,B,$149.19 ,Franc,Comoros,FALSE,$0.00 
+432,B,$34.59 ,Naira,Nigeria,TRUE,$759.59 
+433,D,$126.76 ,Peso,Mexico,FALSE,$0.00 
+434,B,$72.34 ,Yuan Renminbi,China,FALSE,$0.00 
+435,C,$145.11 ,Sol,Peru,FALSE,$0.00 
+436,C,$138.21 ,Dollar,United States,FALSE,$0.00 
+437,A,$99.28 ,Peso,Mexico,TRUE,$272.82 
+438,D,$62.51 ,Lari,Georgia,FALSE,$0.00 
+439,A,$133.65 ,Yuan Renminbi,China,TRUE,$706.12 
+440,D,$97.45 ,Koruna,Czech Republic,TRUE,"$1,039.76 "
+441,B,$149.19 ,Dong,Vietnam,TRUE,$988.41 
+442,B,$45.12 ,Marka,Bosnia and Herzegovina,TRUE,"$1,960.50 "
+443,D,$148.56 ,Yuan Renminbi,China,TRUE,$774.88 
+444,D,$59.80 ,Yuan Renminbi,China,FALSE,$0.00 
+445,A,$59.98 ,Yuan Renminbi,China,TRUE,$512.27 
+446,D,$140.19 ,Peso,Philippines,TRUE,"$1,518.11 "
+447,A,$66.24 ,Peso,Philippines,FALSE,$0.00 
+448,B,$43.24 ,Yuan Renminbi,China,TRUE,"$1,008.07 "
+449,A,$97.29 ,Baht,Thailand,TRUE,$378.62 
+450,B,$140.44 ,Euro,Portugal,TRUE,"$2,828.84 "
+451,C,$82.51 ,Rupiah,Indonesia,TRUE,"$1,124.67 "
+452,C,$144.53 ,Real,Brazil,FALSE,$0.00 
+453,D,$81.75 ,Rupiah,Indonesia,FALSE,$0.00 
+454,D,$131.57 ,Euro,Netherlands,FALSE,$0.00 
+455,C,$116.20 ,Yuan Renminbi,China,FALSE,$0.00 
+456,A,$131.15 ,Dollar,United States,FALSE,$0.00 
+457,B,$56.00 ,Rial,Iran,FALSE,$0.00 
+458,B,$58.21 ,Yuan Renminbi,China,TRUE,"$2,555.39 "
+459,A,$101.32 ,Dollar,United States,TRUE,"$1,228.44 "
+460,A,$40.39 ,Zloty,Poland,FALSE,$0.00 
+461,A,$145.53 ,Yen,Japan,TRUE,"$1,400.10 "
+462,A,$47.48 ,Rupiah,Indonesia,TRUE,"$1,905.52 "
+463,C,$42.66 ,Peso,Argentina,FALSE,$0.00 
+464,C,$141.42 ,Yuan Renminbi,China,FALSE,$0.00 
+465,C,$40.82 ,Pound,United Kingdom,TRUE,$733.51 
+466,A,$116.83 ,Ruble,Russia,FALSE,$0.00 
+467,A,$130.65 ,Ruble,Russia,FALSE,$0.00 
+468,A,$141.47 ,Yuan Renminbi,China,TRUE,$135.33 
+469,C,$132.18 ,Yuan Renminbi,China,FALSE,$0.00 
+470,D,$78.78 ,Yuan Renminbi,China,FALSE,$0.00 
+471,A,$127.96 ,Naira,Nigeria,TRUE,"$2,507.21 "
+472,B,$77.67 ,Euro,Finland,TRUE,"$1,540.66 "
+473,A,$38.78 ,Yuan Renminbi,China,TRUE,"$1,308.46 "
+474,D,$48.18 ,Ruble,Russia,TRUE,"$2,323.35 "
+475,D,$54.67 ,Rupiah,Indonesia,FALSE,$0.00 
+476,C,$54.77 ,Real,Brazil,TRUE,$787.04 
+477,A,$61.61 ,Rupiah,Indonesia,FALSE,$0.00 
+478,B,$68.08 ,Baht,Thailand,TRUE,"$1,877.14 "
+479,A,$42.48 ,Krona,Sweden,TRUE,"$1,573.26 "
+480,C,$40.05 ,Euro,Ireland,TRUE,$658.65 
+481,B,$55.45 ,Real,Brazil,TRUE,"$2,773.69 "
+482,C,$48.69 ,Zloty,Poland,FALSE,$0.00 
+483,B,$69.00 ,Dollar,United States,FALSE,$0.00 
+484,B,$134.25 ,Rial,Iran,TRUE,"$1,441.88 "
+485,A,$130.80 ,Yuan Renminbi,China,FALSE,$0.00 
+486,B,$110.89 ,Ruble,Russia,TRUE,"$1,553.14 "
+487,D,$84.13 ,Euro,Greece,TRUE,"$2,639.50 "
+488,C,$121.58 ,Yuan Renminbi,China,TRUE,$239.48 
+489,A,$83.07 ,Pound,Syria,TRUE,$374.54 
+490,B,$57.77 ,Ruble,Belarus,FALSE,$0.00 
+491,D,$84.16 ,Kina,Papua New Guinea,FALSE,$0.00 
+492,D,$70.76 ,Euro,Portugal,TRUE,"$1,835.12 "
+493,D,$117.07 ,Rupiah,Indonesia,FALSE,$0.00 
+494,D,$141.38 ,Real,Brazil,TRUE,"$1,828.18 "
+495,C,$97.57 ,Krona,Sweden,TRUE,"$2,981.01 "
+496,D,$148.83 ,Boliviano,Bolivia,TRUE,"$1,319.85 "
+497,B,$96.11 ,Yen,Japan,TRUE,"$2,521.94 "
+498,A,$30.36 ,Rupiah,Indonesia,TRUE,$336.04 
+499,B,$126.41 ,Franc,Ivory Coast,FALSE,$0.00 
+500,D,$108.62 ,Yuan Renminbi,China,FALSE,$0.00 
+501,C,$94.16 ,Zloty,Poland,FALSE,$0.00 
+502,B,$140.92 ,Peso,Philippines,FALSE,$0.00 
+503,C,$97.36 ,Pound,Syria,TRUE,"$2,394.68 "
+504,A,$62.80 ,Ruble,Russia,FALSE,$0.00 
+505,A,$34.18 ,Dong,Vietnam,TRUE,"$2,001.32 "
+506,A,$92.59 ,Rupiah,Indonesia,FALSE,$0.00 
+507,C,$125.67 ,Peso,Philippines,TRUE,"$2,208.34 "
+508,A,$125.31 ,Euro,Greece,FALSE,$0.00 
+509,C,$87.39 ,Real,Brazil,FALSE,$0.00 
+510,D,$142.64 ,Peso,Philippines,FALSE,$0.00 
+511,B,$145.39 ,Yuan Renminbi,China,FALSE,$0.00 
+512,D,$122.09 ,Peso,Argentina,TRUE,"$2,220.36 "
+513,D,$53.94 ,Euro,Greece,FALSE,$0.00 
+514,D,$110.47 ,Shilling,Kenya,TRUE,$169.53 
+515,C,$108.84 ,Euro,Portugal,TRUE,"$2,912.20 "
+516,C,$106.78 ,Peso,Philippines,FALSE,$0.00 
+517,D,$148.16 ,Real,Brazil,FALSE,$0.00 
+518,D,$90.11 ,Peso,Argentina,TRUE,"$2,297.90 "
+519,D,$101.92 ,Lev,Bulgaria,TRUE,$688.55 
+520,B,$84.57 ,Yuan Renminbi,China,TRUE,$320.95 
+521,C,$88.99 ,Kina,Papua New Guinea,TRUE,"$2,870.95 "
+522,B,$102.36 ,Som,Uzbekistan,TRUE,"$2,413.39 "
+523,D,$134.17 ,Euro,Germany,TRUE,$934.76 
+524,B,$36.82 ,Leu,Moldova,FALSE,$0.00 
+525,B,$66.04 ,Yuan Renminbi,China,FALSE,$0.00 
+526,C,$106.08 ,Krona,Sweden,TRUE,"$1,428.77 "
+527,C,$33.81 ,Rial,Saudi Arabia,FALSE,$0.00 
+528,A,$83.71 ,Ruble,Russia,FALSE,$0.00 
+529,B,$112.96 ,Peso,Philippines,FALSE,$0.00 
+530,B,$104.44 ,Marka,Bosnia and Herzegovina,TRUE,"$2,882.50 "
+531,A,$61.83 ,Peso,Philippines,TRUE,"$2,377.67 "
+532,B,$99.26 ,Ruble,Russia,TRUE,"$1,719.15 "
+533,D,$51.35 ,Krona,Sweden,FALSE,$0.00 
+534,B,$88.07 ,Dollar,Liberia,FALSE,$0.00 
+535,C,$127.58 ,Lempira,Honduras,FALSE,$0.00 
+536,B,$89.41 ,Quetzal,Guatemala,TRUE,"$1,413.28 "
+537,B,$95.48 ,Yuan Renminbi,China,TRUE,"$1,400.05 "
+538,D,$125.21 ,Yuan Renminbi,China,TRUE,"$1,148.81 "
+539,D,$61.04 ,Koruna,Czech Republic,TRUE,$793.55 
+540,C,$115.80 ,Sol,Peru,TRUE,"$2,118.08 "
+541,A,$107.21 ,Rupiah,Indonesia,FALSE,$0.00 
+542,A,$120.29 ,Euro,Greece,TRUE,"$1,646.89 "
+543,D,$125.12 ,Rupiah,Indonesia,TRUE,$795.44 
+544,A,$135.94 ,Rupiah,Indonesia,TRUE,"$1,663.84 "
+545,B,$45.07 ,Krone,Norway,FALSE,$0.00 
+546,B,$70.71 ,Dong,Vietnam,FALSE,$0.00 
+547,D,$42.87 ,Yen,Japan,TRUE,$835.60 
+548,A,$60.91 ,Yuan Renminbi,China,FALSE,$0.00 
+549,C,$83.89 ,Peso,Philippines,FALSE,$0.00 
+550,A,$69.40 ,Peso,Colombia,TRUE,"$1,169.04 "
+551,B,$100.96 ,Franc,Mali,FALSE,$0.00 
+552,C,$111.93 ,Real,Brazil,TRUE,"$2,260.19 "
+553,D,$93.39 ,Real,Brazil,FALSE,$0.00 
+554,A,$134.53 ,Rupiah,Indonesia,FALSE,$0.00 
+555,C,$133.35 ,Peso,Philippines,TRUE,"$1,095.58 "
+556,C,$136.75 ,Ringgit,Malaysia,FALSE,$0.00 
+557,D,$39.14 ,Yuan Renminbi,China,TRUE,"$1,556.84 "
+558,B,$41.91 ,Yuan Renminbi,China,TRUE,$582.90 
+559,D,$52.37 ,Euro,Portugal,TRUE,"$1,575.26 "
+560,A,$132.37 ,Ruble,Russia,TRUE,"$2,113.08 "
+561,B,$119.87 ,Peso,Argentina,TRUE,"$2,002.05 "
+562,D,$124.60 ,Rupee,Pakistan,TRUE,"$2,051.70 "
+563,B,$107.37 ,Zloty,Poland,TRUE,"$1,581.55 "
+564,D,$131.96 ,Ruble,Russia,TRUE,"$1,305.20 "
+565,D,$78.46 ,Hryvnia,Ukraine,FALSE,$0.00 
+566,C,$76.71 ,Ariary,Madagascar,FALSE,$0.00 
+567,C,$124.45 ,Rupiah,Indonesia,FALSE,$0.00 
+568,D,$62.02 ,Euro,Portugal,TRUE,$987.95 
+569,D,$103.11 ,Euro,Greece,FALSE,$0.00 
+570,C,$122.60 ,Rupiah,Indonesia,FALSE,$0.00 
+571,A,$146.49 ,Franc,Cameroon,TRUE,"$1,496.62 "
+572,C,$116.12 ,Yuan Renminbi,China,TRUE,"$1,052.43 "
+573,B,$42.28 ,Rupiah,Indonesia,TRUE,$672.85 
+574,D,$83.06 ,Koruna,Czech Republic,TRUE,"$2,419.14 "
+575,A,$85.34 ,Peso,Chile,TRUE,"$2,625.00 "
+576,B,$52.21 ,Sol,Peru,FALSE,$0.00 
+577,D,$56.63 ,Euro,Montenegro,FALSE,$0.00 
+578,B,$107.94 ,Dinar,Tunisia,FALSE,$0.00 
+579,B,$95.67 ,Rupiah,Indonesia,TRUE,$465.64 
+580,C,$60.03 ,Sol,Peru,TRUE,"$2,853.87 "
+581,A,$106.87 ,Peso,Mexico,FALSE,$0.00 
+582,D,$95.80 ,Yen,Japan,FALSE,$0.00 
+583,D,$122.05 ,Peso,Philippines,FALSE,$0.00 
+584,D,$57.04 ,Euro,Portugal,FALSE,$0.00 
+585,B,$64.79 ,Sol,Peru,FALSE,$0.00 
+586,D,$64.46 ,Krone,Norway,FALSE,$0.00 
+587,B,$128.18 ,Koruna,Czech Republic,FALSE,$0.00 
+588,D,$114.47 ,Ruble,Russia,TRUE,"$1,966.76 "
+589,C,$98.69 ,Rupiah,Indonesia,TRUE,$861.80 
+590,C,$40.84 ,Naira,Nigeria,TRUE,$798.06 
+591,A,$69.01 ,Rupiah,Indonesia,TRUE,"$2,086.34 "
+592,D,$37.95 ,Dinar,Serbia,TRUE,$244.46 
+593,C,$56.59 ,Ruble,Russia,FALSE,$0.00 
+594,C,$30.13 ,Rupiah,Indonesia,TRUE,"$2,575.96 "
+595,B,$126.59 ,Koruna,Czech Republic,FALSE,$0.00 
+596,D,$79.87 ,Real,Brazil,TRUE,$475.56 
+597,D,$87.61 ,Yuan Renminbi,China,FALSE,$0.00 
+598,B,$76.07 ,Peso,Philippines,FALSE,$0.00 
+599,A,$86.96 ,Rupiah,Indonesia,FALSE,$0.00 
+600,A,$146.00 ,Euro,Greece,TRUE,"$1,410.71 "
+601,D,$135.31 ,Euro,Portugal,TRUE,"$2,143.80 "
+602,B,$131.51 ,Rupiah,Indonesia,TRUE,"$2,337.25 "
+603,A,$136.58 ,Koruna,Czech Republic,TRUE,"$1,985.46 "
+604,C,$143.40 ,Peso,Philippines,TRUE,"$1,417.62 "
+605,D,$115.85 ,Rand,South Africa,FALSE,$0.00 
+606,B,$73.85 ,Rupiah,Indonesia,FALSE,$0.00 
+607,B,$46.42 ,Rupiah,Indonesia,TRUE,"$1,086.23 "
+608,A,$77.21 ,Rupiah,Indonesia,TRUE,"$2,776.51 "
+609,C,$115.43 ,Euro,Slovenia,TRUE,$925.91 
+610,A,$92.97 ,Krone,Norway,TRUE,"$1,157.79 "
+611,B,$32.93 ,Rupiah,Indonesia,TRUE,$369.21 
+612,C,$124.03 ,Dollar,Canada,TRUE,$713.84 
+613,D,$101.46 ,Hryvnia,Ukraine,TRUE,$316.89 
+614,D,$145.42 ,Dong,Vietnam,TRUE,$864.32 
+615,B,$131.56 ,Dollar,Canada,FALSE,$0.00 
+616,A,$46.31 ,Yuan Renminbi,China,TRUE,"$2,214.65 "
+617,A,$53.89 ,Rupiah,Indonesia,FALSE,$0.00 
+618,A,$85.09 ,Peso,Philippines,FALSE,$0.00 
+619,B,$95.98 ,Peso,Dominican Republic,TRUE,"$1,417.85 "
+620,B,$78.86 ,Ruble,Russia,FALSE,$0.00 
+621,C,$32.74 ,Yuan Renminbi,China,TRUE,"$1,922.49 "
+622,C,$53.22 ,Rupiah,Indonesia,FALSE,$0.00 
+623,D,$75.87 ,Real,Brazil,TRUE,"$2,179.41 "
+624,C,$113.62 ,Ruble,Russia,TRUE,"$2,143.87 "
+625,C,$139.25 ,Euro,Cyprus,TRUE,"$1,863.40 "
+626,C,$73.79 ,Yuan Renminbi,China,TRUE,"$1,882.62 "
+627,A,$94.30 ,Kuna,Croatia,FALSE,$0.00 
+628,D,$42.29 ,Yuan Renminbi,China,TRUE,$193.31 
+629,B,$135.60 ,Euro,France,FALSE,$0.00 
+630,A,$31.17 ,Yuan Renminbi,China,TRUE,"$1,815.60 "
+631,A,$86.47 ,Dollar,United States,TRUE,"$1,723.72 "
+632,B,$59.91 ,Rupiah,Indonesia,TRUE,"$1,369.15 "
+633,C,$143.87 ,Dollar,East Timor,TRUE,$961.50 
+634,A,$83.93 ,Real,Brazil,FALSE,$0.00 
+635,D,$70.60 ,Yuan Renminbi,China,FALSE,$0.00 
+636,C,$81.72 ,Peso,Philippines,TRUE,"$1,066.02 "
+637,D,$106.26 ,Yuan Renminbi,China,FALSE,$0.00 
+638,C,$111.09 ,Yuan Renminbi,China,TRUE,"$2,776.01 "
+639,B,$74.93 ,Won,South Korea,FALSE,$0.00 
+640,C,$121.90 ,Rupiah,Indonesia,TRUE,"$1,111.53 "
+641,C,$59.13 ,Rupiah,Indonesia,TRUE,$575.26 
+642,A,$107.42 ,Ruble,Russia,FALSE,$0.00 
+643,A,$91.40 ,Rupiah,Indonesia,TRUE,$135.67 
+644,A,$71.67 ,Yuan Renminbi,China,TRUE,"$2,112.18 "
+645,C,$136.99 ,Rupiah,Indonesia,TRUE,$972.03 
+646,B,$134.34 ,Rupiah,Indonesia,FALSE,$0.00 
+647,B,$63.64 ,Zloty,Poland,FALSE,$0.00 
+648,B,$108.16 ,Peso,Philippines,TRUE,"$2,305.50 "
+649,C,$48.02 ,Krona,Sweden,TRUE,$456.46 
+650,A,$34.65 ,Yuan Renminbi,China,FALSE,$0.00 
+651,B,$117.73 ,Rand,South Africa,FALSE,$0.00 
+652,A,$99.12 ,Pound,United Kingdom,TRUE,"$1,275.69 "
+653,D,$113.52 ,Yuan Renminbi,China,FALSE,$0.00 
+654,A,$95.00 ,Zloty,Poland,FALSE,$0.00 
+655,C,$45.08 ,Ruble,Belarus,FALSE,$0.00 
+656,C,$55.92 ,Rupiah,Indonesia,FALSE,$0.00 
+657,B,$124.98 ,Ringgit,Malaysia,FALSE,$0.00 
+658,B,$47.95 ,Gourde,Haiti,FALSE,$0.00 
+659,D,$75.57 ,Euro,Portugal,TRUE,$669.51 
+660,D,$110.52 ,Euro,France,TRUE,$535.48 
+661,A,$104.53 ,Ruble,Russia,FALSE,$0.00 
+662,B,$67.04 ,Shekel,Israel,TRUE,$601.77 
+663,B,$109.31 ,Franc,Equatorial Guinea,FALSE,$0.00 
+664,A,$148.28 ,Peso,Philippines,TRUE,"$2,344.56 "
+665,A,$98.26 ,Dollar,United States,FALSE,$0.00 
+666,B,$67.01 ,Krona,Sweden,TRUE,"$2,464.13 "
+667,C,$139.88 ,Peso,Philippines,TRUE,"$2,177.67 "
+668,D,$66.34 ,Rupiah,Indonesia,TRUE,"$2,555.16 "
+669,D,$119.98 ,Yuan Renminbi,China,TRUE,"$1,195.48 "
+670,D,$136.61 ,Krona,Sweden,TRUE,"$2,440.66 "
+671,D,$111.30 ,Riels,Cambodia,FALSE,$0.00 
+672,D,$131.83 ,Euro,Portugal,FALSE,$0.00 
+673,D,$46.93 ,Koruna,Czech Republic,FALSE,$0.00 
+674,D,$46.89 ,Real,Brazil,TRUE,"$1,771.89 "
+675,D,$58.25 ,Won,North Korea,TRUE,"$2,178.62 "
+676,B,$129.30 ,Yuan Renminbi,China,TRUE,"$1,336.99 "
+677,C,$59.13 ,Baht,Thailand,FALSE,$0.00 
+678,B,$78.03 ,Euro,Portugal,FALSE,$0.00 
+679,A,$112.90 ,Zloty,Poland,FALSE,$0.00 
+680,D,$82.34 ,Baht,Thailand,FALSE,$0.00 
+681,C,$126.78 ,Quetzal,Guatemala,TRUE,"$1,751.94 "
+682,C,$81.72 ,Zloty,Poland,FALSE,$0.00 
+683,C,$123.73 ,Yuan Renminbi,China,TRUE,"$1,698.20 "
+684,C,$71.80 ,Euro,Slovenia,FALSE,$0.00 
+685,D,$94.85 ,Leu,Moldova,FALSE,$0.00 
+686,B,$56.36 ,Dollar,Canada,FALSE,$0.00 
+687,B,$136.42 ,Rupiah,Indonesia,TRUE,"$2,410.78 "
+688,D,$94.10 ,Rupiah,Indonesia,TRUE,"$2,883.73 "
+689,A,$61.90 ,Peso,Philippines,FALSE,$0.00 
+690,A,$145.25 ,Rupiah,Indonesia,FALSE,$0.00 
+691,C,$146.57 ,Euro,France,TRUE,"$1,471.67 "
+692,A,$117.47 ,Yuan Renminbi,China,TRUE,$745.33 
+693,C,$86.80 ,Euro,Portugal,TRUE,"$1,559.41 "
+694,A,$144.09 ,Rial,Iran,TRUE,"$2,579.61 "
+695,C,$90.11 ,Yuan Renminbi,China,FALSE,$0.00 
+696,C,$83.52 ,Koruna,Czech Republic,FALSE,$0.00 
+697,B,$144.79 ,Loti,Lesotho,FALSE,$0.00 
+698,B,$74.82 ,Lempira,Honduras,TRUE,"$2,257.26 "
+699,C,$109.73 ,Rupiah,Indonesia,FALSE,$0.00 
+700,C,$91.18 ,Euro,France,FALSE,$0.00 
+701,A,$133.92 ,Ruble,Russia,FALSE,$0.00 
+702,A,$126.35 ,Balboa,Panama,FALSE,$0.00 
+703,A,$33.04 ,Peso,Philippines,FALSE,$0.00 
+704,D,$144.43 ,Ruble,Russia,TRUE,"$1,691.80 "
+705,A,$49.32 ,Hryvnia,Ukraine,FALSE,$0.00 
+706,C,$125.07 ,Dalasi,Gambia,TRUE,"$2,941.23 "
+707,C,$31.88 ,Krona,Sweden,TRUE,"$1,006.20 "
+708,B,$69.71 ,Rupiah,Indonesia,TRUE,$313.52 
+709,A,$97.15 ,Rupiah,Indonesia,TRUE,"$2,653.69 "
+710,C,$129.78 ,Yuan Renminbi,China,FALSE,$0.00 
+711,D,$78.63 ,Yen,Japan,FALSE,$0.00 
+712,C,$135.24 ,Zloty,Poland,FALSE,$0.00 
+713,A,$60.18 ,Rupiah,Indonesia,TRUE,$921.35 
+714,B,$39.54 ,Yuan Renminbi,China,FALSE,$0.00 
+715,C,$41.19 ,Yuan Renminbi,China,TRUE,"$2,653.43 "
+716,A,$137.94 ,Yuan Renminbi,China,FALSE,$0.00 
+717,D,$119.73 ,Rupiah,Indonesia,FALSE,$0.00 
+718,A,$30.95 ,Lari,Georgia,TRUE,"$2,754.49 "
+719,C,$133.00 ,Yuan Renminbi,China,TRUE,"$2,987.15 "
+720,D,$95.67 ,Zloty,Poland,FALSE,$0.00 
+721,D,$52.74 ,Bolivar,Venezuela,TRUE,"$1,577.57 "
+722,D,$100.29 ,Yuan Renminbi,China,TRUE,$599.17 
+723,B,$35.31 ,Rupiah,Indonesia,FALSE,$0.00 
+724,D,$128.38 ,Yen,Japan,FALSE,$0.00 
+725,B,$53.08 ,Koruna,Czech Republic,FALSE,$0.00 
+726,B,$66.50 ,Yuan Renminbi,China,TRUE,$983.32 
+727,C,$126.96 ,Euro,France,TRUE,"$1,400.73 "
+728,A,$59.42 ,Pound,United Kingdom,FALSE,$0.00 
+729,A,$85.88 ,Peso,Argentina,FALSE,$0.00 
+730,D,$143.15 ,Peso,Philippines,FALSE,$0.00 
+731,B,$145.67 ,Euro,Greece,TRUE,"$2,334.53 "
+732,B,$63.34 ,Koruna,Czech Republic,FALSE,$0.00 
+733,D,$140.92 ,Rupiah,Indonesia,FALSE,$0.00 
+734,C,$131.03 ,Rand,South Africa,FALSE,$0.00 
+735,C,$75.22 ,Dinar,Tunisia,TRUE,"$2,436.90 "
+736,C,$40.33 ,Rupiah,Indonesia,TRUE,"$2,258.98 "
+737,C,$94.00 ,Dollar,Suriname,TRUE,$522.74 
+738,D,$116.63 ,Peso,Mexico,FALSE,$0.00 
+739,B,$38.27 ,Sol,Peru,FALSE,$0.00 
+740,B,$81.49 ,Euro,Portugal,TRUE,$272.74 
+741,A,$100.31 ,Peso,Philippines,FALSE,$0.00 
+742,C,$32.00 ,Ruble,Russia,FALSE,$0.00 
+743,A,$96.76 ,Naira,Nigeria,TRUE,$855.68 
+744,D,$127.78 ,Zloty,Poland,FALSE,$0.00 
+745,A,$134.78 ,Peso,Philippines,TRUE,"$2,518.23 "
+746,D,$87.78 ,Euro,Portugal,TRUE,"$2,669.27 "
+747,C,$116.97 ,Krona,Sweden,TRUE,$666.75 
+748,B,$136.52 ,Ruble,Russia,TRUE,$827.19 
+749,D,$139.04 ,Dinar,Jordan,FALSE,$0.00 
+750,A,$130.00 ,Rupiah,Indonesia,FALSE,$0.00 
+751,D,$40.67 ,Ringgit,Malaysia,TRUE,"$1,692.06 "
+752,D,$58.50 ,Yuan Renminbi,China,FALSE,$0.00 
+753,A,$135.44 ,Yuan Renminbi,China,FALSE,$0.00 
+754,A,$52.22 ,Dinar,Iraq,TRUE,"$1,916.44 "
+755,C,$146.22 ,Ringgit,Malaysia,TRUE,$688.27 
+756,B,$101.89 ,Manat,Azerbaijan,TRUE,"$2,197.69 "
+757,A,$120.83 ,Dollar,Canada,TRUE,"$2,356.59 "
+758,C,$90.25 ,Ruble,Russia,FALSE,$0.00 
+759,C,$115.01 ,Koruna,Czech Republic,FALSE,$0.00 
+760,B,$61.69 ,Real,Brazil,TRUE,"$2,144.83 "
+761,A,$82.48 ,Hryvnia,Ukraine,FALSE,$0.00 
+762,A,$93.01 ,Ruble,Russia,FALSE,$0.00 
+763,D,$65.62 ,Euro,Portugal,FALSE,$0.00 
+764,A,$130.50 ,Euro,France,TRUE,"$2,711.21 "
+765,A,$110.72 ,Peso,Philippines,FALSE,$0.00 
+766,A,$147.08 ,Franc,Niger,FALSE,$0.00 
+767,A,$126.65 ,Yuan Renminbi,China,FALSE,$0.00 
+768,B,$39.46 ,Zloty,Poland,TRUE,"$2,196.68 "
+769,A,$144.84 ,Lempira,Honduras,FALSE,$0.00 
+770,D,$86.73 ,Dollar,Taiwan,FALSE,$0.00 
+771,A,$59.48 ,Yuan Renminbi,China,TRUE,$125.31 
+772,A,$82.13 ,Krona,Iceland,FALSE,$0.00 
+773,C,$111.60 ,Shilling,Tanzania,FALSE,$0.00 
+774,A,$120.70 ,Real,Brazil,FALSE,$0.00 
+775,D,$88.12 ,Rupiah,Indonesia,TRUE,$931.42 
+776,B,$71.76 ,Zloty,Poland,FALSE,$0.00 
+777,A,$87.58 ,Shekel,Palestinian Territory,TRUE,"$2,231.92 "
+778,B,$137.13 ,Sol,Peru,FALSE,$0.00 
+779,C,$67.45 ,Yuan Renminbi,China,TRUE,"$2,303.72 "
+780,D,$88.34 ,Rupiah,Indonesia,FALSE,$0.00 
+781,B,$142.62 ,Yuan Renminbi,China,FALSE,$0.00 
+782,C,$115.13 ,Rupiah,Indonesia,TRUE,"$2,688.09 "
+783,B,$113.64 ,Afghani,Afghanistan,TRUE,"$1,209.00 "
+784,D,$144.99 ,Peso,Mexico,TRUE,$828.74 
+785,C,$67.08 ,Pound,Syria,FALSE,$0.00 
+786,D,$81.93 ,Manat,Azerbaijan,FALSE,$0.00 
+787,A,$67.59 ,Euro,Portugal,FALSE,$0.00 
+788,A,$75.63 ,Euro,Netherlands,TRUE,"$2,670.61 "
+789,A,$116.34 ,Ruble,Russia,FALSE,$0.00 
+790,C,$126.87 ,Peso,Philippines,TRUE,"$1,032.29 "
+791,C,$66.07 ,Dong,Vietnam,TRUE,"$1,605.97 "
+792,B,$127.21 ,Yuan Renminbi,China,TRUE,"$1,324.81 "
+793,B,$132.52 ,Naira,Nigeria,TRUE,"$1,313.77 "
+794,A,$48.36 ,Yuan Renminbi,China,FALSE,$0.00 
+795,B,$39.30 ,Ruble,Russia,TRUE,"$2,729.28 "
+796,D,$57.82 ,Franc,Benin,TRUE,"$2,211.44 "
+797,C,$131.98 ,Yuan Renminbi,China,FALSE,$0.00 
+798,D,$77.94 ,Euro,Ireland,FALSE,$0.00 
+799,A,$98.12 ,Ruble,Russia,TRUE,"$2,066.73 "
+800,D,$79.52 ,Real,Brazil,TRUE,$967.94 
+801,C,$112.64 ,Ariary,Madagascar,FALSE,$0.00 
+802,A,$125.63 ,Rand,South Africa,TRUE,"$1,350.68 "
+803,B,$52.38 ,Euro,Finland,TRUE,"$1,588.36 "
+804,A,$146.59 ,Rupiah,Indonesia,TRUE,"$1,780.10 "
+805,A,$130.85 ,Yen,Japan,FALSE,$0.00 
+806,D,$36.87 ,Rupiah,Indonesia,FALSE,$0.00 
+807,D,$72.54 ,Yen,Japan,TRUE,"$2,731.05 "
+808,B,$36.16 ,Sol,Peru,FALSE,$0.00 
+809,D,$110.96 ,Dong,Vietnam,FALSE,$0.00 
+810,D,$149.95 ,Yuan Renminbi,China,TRUE,"$2,692.29 "
+811,B,$138.36 ,Ruble,Russia,TRUE,$807.29 
+812,B,$118.13 ,Franc,Cameroon,FALSE,$0.00 
+813,C,$133.37 ,Koruna,Czech Republic,TRUE,"$1,765.46 "
+814,C,$120.57 ,Zloty,Poland,FALSE,$0.00 
+815,A,$128.08 ,Yuan Renminbi,China,FALSE,$0.00 
+816,B,$58.32 ,Peso,Philippines,FALSE,$0.00 
+817,B,$120.49 ,Euro,France,TRUE,"$2,742.26 "
+818,C,$108.79 ,Yuan Renminbi,China,TRUE,$104.82 
+819,C,$65.01 ,Peso,Philippines,TRUE,$720.86 
+820,C,$138.19 ,Manat,Azerbaijan,FALSE,$0.00 
+821,C,$44.01 ,Euro,Portugal,FALSE,$0.00 
+822,B,$72.89 ,Krone,Norway,TRUE,$769.60 
+823,C,$103.32 ,Peso,Dominican Republic,FALSE,$0.00 
+824,D,$61.00 ,Euro,Netherlands,TRUE,"$1,022.77 "
+825,C,$58.44 ,Rupiah,Indonesia,TRUE,"$2,467.77 "
+826,C,$133.38 ,Ruble,Russia,TRUE,$423.81 
+827,A,$110.19 ,Yuan Renminbi,China,FALSE,$0.00 
+828,A,$65.63 ,Yuan Renminbi,China,TRUE,"$1,636.36 "
+829,C,$140.33 ,Afghani,Afghanistan,FALSE,$0.00 
+830,C,$102.04 ,Dollar,United States,FALSE,$0.00 
+831,B,$93.54 ,Euro,Greece,FALSE,$0.00 
+832,B,$127.13 ,Ruble,Russia,TRUE,$655.03 
+833,D,$115.79 ,Hryvnia,Ukraine,TRUE,"$1,332.55 "
+834,D,$33.64 ,Euro,France,FALSE,$0.00 
+835,D,$100.99 ,Afghani,Afghanistan,TRUE,"$2,785.16 "
+836,A,$41.51 ,Real,Brazil,FALSE,$0.00 
+837,A,$109.30 ,Yuan Renminbi,China,FALSE,$0.00 
+838,B,$124.21 ,Baht,Thailand,FALSE,$0.00 
+839,D,$66.56 ,Zloty,Poland,FALSE,$0.00 
+840,C,$119.86 ,Kuna,Croatia,TRUE,"$1,298.72 "
+841,B,$126.72 ,Koruna,Czech Republic,FALSE,$0.00 
+842,C,$72.77 ,Dram,Armenia,TRUE,"$1,575.49 "
+843,A,$78.19 ,Zloty,Poland,TRUE,$805.66 
+844,A,$87.38 ,Peso,Philippines,FALSE,$0.00 
+845,A,$147.32 ,Euro,Portugal,FALSE,$0.00 
+846,B,$66.53 ,Yuan Renminbi,China,FALSE,$0.00 
+847,C,$46.44 ,Franc,Ivory Coast,FALSE,$0.00 
+848,B,$120.39 ,Franc,Ivory Coast,TRUE,"$1,960.38 "
+849,B,$112.18 ,Euro,Ireland,FALSE,$0.00 
+850,C,$129.68 ,Rial,Yemen,TRUE,$573.93 
+851,B,$135.50 ,Euro,Portugal,TRUE,"$2,587.25 "
+852,A,$67.72 ,Ruble,Russia,TRUE,"$1,038.95 "
+853,C,$73.21 ,Peso,Uruguay,FALSE,$0.00 
+854,A,$136.63 ,Dollar,Jamaica,FALSE,$0.00 
+855,D,$124.43 ,Yuan Renminbi,China,TRUE,$328.34 
+856,C,$97.67 ,Krona,Sweden,TRUE,$795.38 
+857,D,$79.42 ,Kuna,Croatia,FALSE,$0.00 
+858,D,$85.96 ,Euro,Latvia,FALSE,$0.00 
+859,B,$35.67 ,Rupiah,Indonesia,FALSE,$0.00 
+860,B,$67.65 ,Peso,Philippines,TRUE,$314.71 
+861,C,$60.67 ,Yuan Renminbi,China,TRUE,"$2,989.20 "
+862,C,$146.69 ,Yuan Renminbi,China,FALSE,$0.00 
+863,D,$61.13 ,Yuan Renminbi,China,FALSE,$0.00 
+864,D,$108.46 ,Zloty,Poland,TRUE,$773.53 
+865,D,$84.89 ,Yuan Renminbi,China,TRUE,"$2,926.96 "
+866,C,$98.42 ,Yuan Renminbi,China,FALSE,$0.00 
+867,C,$122.71 ,Yuan Renminbi,China,FALSE,$0.00 
+868,A,$103.86 ,Ruble,Russia,FALSE,$0.00 
+869,A,$44.71 ,Dong,Vietnam,FALSE,$0.00 
+870,B,$125.20 ,Dinar,Serbia,FALSE,$0.00 
+871,A,$112.07 ,Yuan Renminbi,China,FALSE,$0.00 
+872,D,$86.72 ,Lempira,Honduras,FALSE,$0.00 
+873,C,$125.55 ,Dollar,United States,TRUE,"$2,660.95 "
+874,C,$147.95 ,Quetzal,Guatemala,FALSE,$0.00 
+875,A,$41.40 ,Peso,Philippines,FALSE,$0.00 
+876,A,$120.36 ,Rial,Iran,TRUE,"$2,961.80 "
+877,B,$146.52 ,Real,Brazil,FALSE,$0.00 
+878,D,$77.27 ,Yuan Renminbi,China,TRUE,"$1,905.57 "
+879,A,$78.50 ,Lek,Albania,TRUE,"$1,465.89 "
+880,D,$43.97 ,Rupiah,Indonesia,FALSE,$0.00 
+881,A,$131.28 ,Peso,Argentina,FALSE,$0.00 
+882,C,$61.89 ,Quetzal,Guatemala,FALSE,$0.00 
+883,A,$110.57 ,Rial,Iran,TRUE,"$2,813.74 "
+884,D,$148.66 ,Som,Kyrgyzstan,FALSE,$0.00 
+885,C,$66.47 ,Yuan Renminbi,China,TRUE,$563.85 
+886,B,$135.47 ,Rupiah,Indonesia,TRUE,"$2,576.33 "
+887,A,$109.22 ,Hryvnia,Ukraine,TRUE,"$2,475.45 "
+888,D,$47.62 ,Shilling,Tanzania,FALSE,$0.00 
+889,D,$39.74 ,Peso,Argentina,TRUE,"$1,664.55 "
+890,D,$126.94 ,Euro,France,TRUE,"$2,903.51 "
+891,C,$111.46 ,Peso,Dominican Republic,TRUE,"$1,735.48 "
+892,B,$90.68 ,Yuan Renminbi,China,TRUE,"$2,818.79 "
+893,C,$98.88 ,Peso,Argentina,FALSE,$0.00 
+894,B,$88.23 ,Balboa,Panama,FALSE,$0.00 
+895,B,$56.53 ,Yuan Renminbi,China,TRUE,$420.03 
+896,C,$75.54 ,Euro,Netherlands,TRUE,"$2,855.24 "
+897,C,$124.41 ,Pound,United Kingdom,FALSE,$0.00 
+898,A,$33.01 ,Peso,Philippines,TRUE,"$2,151.31 "
+899,C,$115.21 ,Rupiah,Indonesia,FALSE,$0.00 
+900,A,$76.40 ,Zloty,Poland,FALSE,$0.00 
+901,B,$146.99 ,Ruble,Russia,TRUE,$714.79 
+902,C,$84.12 ,Zloty,Poland,TRUE,"$2,785.59 "
+903,D,$141.11 ,Yuan Renminbi,China,FALSE,$0.00 
+904,C,$44.97 ,Peso,Argentina,FALSE,$0.00 
+905,B,$87.34 ,Euro,Finland,FALSE,$0.00 
+906,D,$133.27 ,Dollar,United States,TRUE,"$2,905.01 "
+907,C,$58.22 ,Zloty,Poland,FALSE,$0.00 
+908,C,$117.80 ,Real,Brazil,TRUE,"$1,201.57 "
+909,B,$92.41 ,Peso,Philippines,TRUE,"$1,782.73 "
+910,D,$136.30 ,Peso,Argentina,FALSE,$0.00 
+911,C,$58.85 ,Real,Brazil,TRUE,"$1,158.13 "
+912,B,$148.99 ,Ruble,Russia,FALSE,$0.00 
+913,B,$47.34 ,Zloty,Poland,FALSE,$0.00 
+914,A,$113.94 ,Euro,Greece,TRUE,"$1,902.19 "
+915,B,$50.15 ,Tugrik,Mongolia,TRUE,"$2,111.95 "
+916,B,$39.16 ,Euro,Portugal,TRUE,$831.85 
+917,C,$123.55 ,Euro,France,TRUE,"$2,921.32 "
+918,B,$46.07 ,Ruble,Russia,FALSE,$0.00 
+919,B,$47.16 ,Yuan Renminbi,China,TRUE,$192.14 
+920,A,$34.04 ,Dollar,Canada,FALSE,$0.00 
+921,A,$110.78 ,Dong,Vietnam,TRUE,$829.78 
+922,B,$126.51 ,Cordoba,Nicaragua,TRUE,"$1,501.25 "
+923,A,$126.41 ,Real,Brazil,TRUE,"$1,607.61 "
+924,B,$62.66 ,Hryvnia,Ukraine,FALSE,$0.00 
+925,A,$117.31 ,Yuan Renminbi,China,FALSE,$0.00 
+926,B,$121.93 ,Yuan Renminbi,China,FALSE,$0.00 
+927,D,$30.99 ,Sol,Peru,FALSE,$0.00 
+928,C,$76.25 ,Euro,Slovenia,TRUE,"$2,591.12 "
+929,B,$115.97 ,Ringgit,Malaysia,FALSE,$0.00 
+930,C,$49.44 ,Sol,Peru,FALSE,$0.00 
+931,A,$62.95 ,Ruble,Russia,TRUE,"$2,086.91 "
+932,B,$85.78 ,Koruna,Czech Republic,FALSE,$0.00 
+933,A,$71.23 ,Peso,Colombia,TRUE,"$1,130.08 "
+934,C,$120.73 ,Peso,Philippines,TRUE,"$1,657.97 "
+935,B,$140.97 ,Ruble,Russia,TRUE,"$1,614.00 "
+936,C,$114.72 ,Yuan Renminbi,China,FALSE,$0.00 
+937,C,$139.73 ,Taka,Bangladesh,TRUE,"$1,229.83 "
+938,B,$46.23 ,Yuan Renminbi,China,FALSE,$0.00 
+939,A,$106.05 ,Rupiah,Indonesia,TRUE,"$1,434.40 "
+940,A,$100.90 ,Real,Brazil,TRUE,"$2,182.04 "
+941,D,$122.51 ,Dollar,United States,TRUE,"$1,434.59 "
+942,A,$144.91 ,Colon,Costa Rica,FALSE,$0.00 
+943,B,$69.60 ,Rial,Yemen,TRUE,"$1,031.23 "
+944,A,$92.45 ,Lari,Georgia,FALSE,$0.00 
+945,C,$48.48 ,Rupiah,Indonesia,FALSE,$0.00 
+946,A,$56.99 ,Gourde,Haiti,TRUE,"$2,465.51 "
+947,B,$140.70 ,Rupiah,Indonesia,TRUE,"$1,191.73 "
+948,D,$47.94 ,Peso,Dominican Republic,FALSE,$0.00 
+949,D,$137.78 ,Franc,Equatorial Guinea,TRUE,"$1,110.85 "
+950,D,$68.06 ,Rupiah,Indonesia,FALSE,$0.00 
+951,A,$121.40 ,Yuan Renminbi,China,TRUE,$495.50 
+952,B,$112.34 ,Ruble,Russia,TRUE,$558.94 
+953,A,$135.31 ,Euro,Germany,TRUE,$612.87 
+954,A,$85.14 ,Bolivar,Venezuela,TRUE,"$2,663.41 "
+955,B,$146.47 ,Sol,Peru,FALSE,$0.00 
+956,B,$62.28 ,Yuan Renminbi,China,TRUE,"$1,858.03 "
+957,C,$72.74 ,Yuan Renminbi,China,TRUE,"$2,746.12 "
+958,A,$145.73 ,Shilling,Kenya,FALSE,$0.00 
+959,D,$55.75 ,Lempira,Honduras,TRUE,"$1,663.74 "
+960,A,$115.06 ,Peso,Philippines,TRUE,$295.21 
+961,C,$46.34 ,Rupiah,Indonesia,TRUE,"$1,962.97 "
+962,C,$80.08 ,Peso,Colombia,TRUE,"$1,056.96 "
+963,C,$59.72 ,Ruble,Russia,FALSE,$0.00 
+964,D,$72.33 ,Rupiah,Indonesia,TRUE,"$2,949.52 "
+965,C,$92.93 ,Baht,Thailand,FALSE,$0.00 
+966,D,$127.29 ,Rupiah,Indonesia,TRUE,"$1,757.06 "
+967,C,$69.02 ,Rupiah,Indonesia,TRUE,"$1,478.85 "
+968,D,$71.63 ,Yuan Renminbi,China,TRUE,"$2,899.23 "
+969,B,$108.16 ,Peso,Philippines,FALSE,$0.00 
+970,D,$79.50 ,Zloty,Poland,TRUE,$500.26 
+971,C,$89.28 ,Yuan Renminbi,China,FALSE,$0.00 
+972,C,$113.78 ,Euro,Portugal,TRUE,$304.73 
+973,D,$48.55 ,Peso,Chile,TRUE,"$1,757.25 "
+974,C,$118.49 ,Peso,Argentina,FALSE,$0.00 
+975,C,$131.52 ,Peso,Philippines,FALSE,$0.00 
+976,D,$100.33 ,Peso,Philippines,FALSE,$0.00 
+977,C,$33.75 ,Yuan Renminbi,China,TRUE,$728.60 
+978,A,$61.88 ,Zloty,Poland,TRUE,$550.12 
+979,C,$58.19 ,Yuan Renminbi,China,TRUE,$525.77 
+980,D,$118.08 ,Ruble,Russia,FALSE,$0.00 
+981,B,$34.84 ,Rupiah,Indonesia,TRUE,"$1,263.85 "
+982,A,$97.03 ,Baht,Thailand,FALSE,$0.00 
+983,B,$79.66 ,Euro,Greece,FALSE,$0.00 
+984,B,$104.17 ,Yuan Renminbi,China,FALSE,$0.00 
+985,B,$103.24 ,Tenge,Kazakhstan,TRUE,"$1,546.95 "
+986,D,$123.56 ,Real,Brazil,TRUE,"$1,753.56 "
+987,C,$56.80 ,Yuan Renminbi,China,FALSE,$0.00 
+988,D,$40.55 ,Euro,France,TRUE,"$2,212.24 "
+989,D,$113.74 ,Yuan Renminbi,China,TRUE,$446.34 
+990,A,$123.68 ,Cordoba,Nicaragua,TRUE,"$1,115.64 "
+991,C,$145.12 ,Real,Brazil,TRUE,"$2,938.07 "
+992,A,$55.17 ,Dong,Vietnam,FALSE,$0.00 
+993,B,$79.44 ,Yuan Renminbi,China,FALSE,$0.00 
+994,D,$69.49 ,Yuan Renminbi,China,TRUE,"$2,799.17 "
+995,C,$129.89 ,Peso,Philippines,TRUE,"$2,400.11 "
+996,D,$41.41 ,Rupiah,Indonesia,TRUE,$444.96 
+997,C,$37.10 ,Yuan Renminbi,China,FALSE,$0.00 
+998,D,$51.65 ,Euro,Portugal,FALSE,$0.00 
+999,C,$59.01 ,Dollar,United States,FALSE,$0.00 
+1000,D,$138.60 ,Dollar,United States,FALSE,$0.00 
