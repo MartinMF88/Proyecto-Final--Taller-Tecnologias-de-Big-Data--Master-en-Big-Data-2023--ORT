@@ -1,5 +1,5 @@
-plan,nombre
-A,Basic
-B,Original
-C,Family
-D,Premium
+plan,nombre,created_at
+A,Basic,6/4/2021
+B,Original,6/8/2021
+C,Family,6/2/2021
+D,Premium,6/2/2021

@@ -1,4 +1,4 @@
-user_id,plan,mensual_cost,currency,country,has_monthly_purchases,purchase_value_local_currency
+user_id,plan,mensual_cost_usd,local_currency,country,has_monthly_purchases,purchase_value_local_currency
 1,C,$38.90 ,Zloty,Poland,FALSE,$0.00 
 2,D,$62.02 ,Peso,Colombia,FALSE,$0.00 
 3,C,$99.53 ,Rupiah,Indonesia,TRUE,$768.87 
@@ -32,7 +32,7 @@ user_id,plan,mensual_cost,currency,country,has_monthly_purchases,purchase_value_
 31,D,$52.99 ,Euro,France,TRUE,"$2,009.40 "
 32,D,$123.82 ,Rupiah,Indonesia,FALSE,$0.00 
 33,A,$120.18 ,Franc,Ivory Coast,TRUE,"$1,449.00 "
-34,B,$100.98 ,Real,Brazil,FALSE,$0.00 
+34,B,$100.98 ,,Brazil,FALSE,$0.00 
 35,A,$100.21 ,Ruble,Russia,FALSE,$0.00 
 36,B,$107.62 ,Peso,Colombia,TRUE,"$2,398.70 "
 37,C,$104.19 ,Dram,Armenia,FALSE,$0.00 
@@ -84,7 +84,7 @@ user_id,plan,mensual_cost,currency,country,has_monthly_purchases,purchase_value_
 83,D,$143.06 ,Nakfa,Eritrea,FALSE,$0.00 
 84,A,$80.97 ,Peso,Philippines,TRUE,"$1,794.31 "
 85,B,$58.09 ,Rupiah,Indonesia,TRUE,"$2,881.93 "
-86,A,$102.40 ,Peso,Mexico,TRUE,$633.98 
+86,A,$102.40 ,,Mexico,TRUE,$633.98 
 87,A,$50.01 ,Yuan Renminbi,China,FALSE,$0.00 
 88,A,$70.48 ,Dong,Vietnam,TRUE,"$1,761.43 "
 89,C,$100.36 ,Tala,Samoa,FALSE,$0.00 
@@ -212,7 +212,7 @@ user_id,plan,mensual_cost,currency,country,has_monthly_purchases,purchase_value_
 211,B,$74.98 ,Shekel,Palestinian Territory,FALSE,$0.00 
 212,C,$137.86 ,Krona,Sweden,TRUE,"$2,191.85 "
 213,B,$60.51 ,Euro,Greece,FALSE,$0.00 
-214,D,$68.12 ,Real,Brazil,TRUE,"$1,903.53 "
+214,D,$68.12 ,,Brazil,TRUE,"$1,903.53 "
 215,B,$103.74 ,Ruble,Russia,TRUE,$834.89 
 216,D,$114.89 ,Dalasi,Gambia,TRUE,$525.38 
 217,B,$81.11 ,Rupiah,Indonesia,TRUE,"$2,035.76 "
@@ -251,7 +251,7 @@ user_id,plan,mensual_cost,currency,country,has_monthly_purchases,purchase_value_
 250,A,$69.21 ,Yuan Renminbi,China,FALSE,$0.00 
 251,B,$61.37 ,Yuan Renminbi,China,FALSE,$0.00 
 252,C,$127.40 ,Zloty,Poland,TRUE,"$1,381.98 "
-253,D,$84.18 ,Dollar,United States,TRUE,"$1,253.35 "
+253,D,$84.18 ,,United States,TRUE,"$1,253.35 "
 254,B,$125.83 ,Euro,France,TRUE,"$1,838.76 "
 255,B,$89.45 ,Euro,Portugal,FALSE,$0.00 
 256,D,$49.95 ,Yuan Renminbi,China,TRUE,$609.52 
@@ -271,7 +271,7 @@ user_id,plan,mensual_cost,currency,country,has_monthly_purchases,purchase_value_
 270,C,$131.47 ,Euro,France,TRUE,$133.14 
 271,A,$103.95 ,Yuan Renminbi,China,TRUE,$772.13 
 272,A,$74.34 ,Rupiah,Indonesia,TRUE,"$1,647.51 "
-273,B,$81.33 ,Euro,Germany,TRUE,"$2,001.30 "
+273,B,$81.33 ,,Germany,TRUE,"$2,001.30 "
 274,D,$112.52 ,Rupiah,Indonesia,TRUE,"$2,394.32 "
 275,D,$67.53 ,Dollar,Puerto Rico,FALSE,$0.00 
 276,D,$133.61 ,Kwacha,Zambia,TRUE,"$1,572.47 "
@@ -309,7 +309,7 @@ user_id,plan,mensual_cost,currency,country,has_monthly_purchases,purchase_value_
 308,D,$53.42 ,Euro,Finland,TRUE,$458.46 
 309,B,$142.55 ,Yuan Renminbi,China,FALSE,$0.00 
 310,A,$53.25 ,Peso,Colombia,TRUE,$649.63 
-311,A,$124.75 ,Real,Brazil,FALSE,$0.00 
+311,A,$124.75 ,,Brazil,FALSE,$0.00 
 312,A,$125.95 ,Peso,Dominican Republic,FALSE,$0.00 
 313,D,$63.51 ,Rupiah,Indonesia,FALSE,$0.00 
 314,B,$101.80 ,Yuan Renminbi,China,TRUE,"$2,572.17 "
@@ -454,7 +454,7 @@ user_id,plan,mensual_cost,currency,country,has_monthly_purchases,purchase_value_
 453,D,$81.75 ,Rupiah,Indonesia,FALSE,$0.00 
 454,D,$131.57 ,Euro,Netherlands,FALSE,$0.00 
 455,C,$116.20 ,Yuan Renminbi,China,FALSE,$0.00 
-456,A,$131.15 ,Dollar,United States,FALSE,$0.00 
+456,A,$131.15 ,,United States,FALSE,$0.00 
 457,B,$56.00 ,Rial,Iran,FALSE,$0.00 
 458,B,$58.21 ,Yuan Renminbi,China,TRUE,"$2,555.39 "
 459,A,$101.32 ,Dollar,United States,TRUE,"$1,228.44 "
@@ -492,7 +492,7 @@ user_id,plan,mensual_cost,currency,country,has_monthly_purchases,purchase_value_
 491,D,$84.16 ,Kina,Papua New Guinea,FALSE,$0.00 
 492,D,$70.76 ,Euro,Portugal,TRUE,"$1,835.12 "
 493,D,$117.07 ,Rupiah,Indonesia,FALSE,$0.00 
-494,D,$141.38 ,Real,Brazil,TRUE,"$1,828.18 "
+494,D,$141.38 ,,Brazil,TRUE,"$1,828.18 "
 495,C,$97.57 ,Krona,Sweden,TRUE,"$2,981.01 "
 496,D,$148.83 ,Boliviano,Bolivia,TRUE,"$1,319.85 "
 497,B,$96.11 ,Yen,Japan,TRUE,"$2,521.94 "
@@ -610,7 +610,7 @@ user_id,plan,mensual_cost,currency,country,has_monthly_purchases,purchase_value_
 609,C,$115.43 ,Euro,Slovenia,TRUE,$925.91 
 610,A,$92.97 ,Krone,Norway,TRUE,"$1,157.79 "
 611,B,$32.93 ,Rupiah,Indonesia,TRUE,$369.21 
-612,C,$124.03 ,Dollar,Canada,TRUE,$713.84 
+612,C,$124.03 ,,Canada,TRUE,$713.84 
 613,D,$101.46 ,Hryvnia,Ukraine,TRUE,$316.89 
 614,D,$145.42 ,Dong,Vietnam,TRUE,$864.32 
 615,B,$131.56 ,Dollar,Canada,FALSE,$0.00 
@@ -632,7 +632,7 @@ user_id,plan,mensual_cost,currency,country,has_monthly_purchases,purchase_value_
 631,A,$86.47 ,Dollar,United States,TRUE,"$1,723.72 "
 632,B,$59.91 ,Rupiah,Indonesia,TRUE,"$1,369.15 "
 633,C,$143.87 ,Dollar,East Timor,TRUE,$961.50 
-634,A,$83.93 ,Real,Brazil,FALSE,$0.00 
+634,A,$83.93 ,,Brazil,FALSE,$0.00 
 635,D,$70.60 ,Yuan Renminbi,China,FALSE,$0.00 
 636,C,$81.72 ,Peso,Philippines,TRUE,"$1,066.02 "
 637,D,$106.26 ,Yuan Renminbi,China,FALSE,$0.00 
@@ -684,7 +684,7 @@ user_id,plan,mensual_cost,currency,country,has_monthly_purchases,purchase_value_
 683,C,$123.73 ,Yuan Renminbi,China,TRUE,"$1,698.20 "
 684,C,$71.80 ,Euro,Slovenia,FALSE,$0.00 
 685,D,$94.85 ,Leu,Moldova,FALSE,$0.00 
-686,B,$56.36 ,Dollar,Canada,FALSE,$0.00 
+686,B,$56.36 ,,Canada,FALSE,$0.00 
 687,B,$136.42 ,Rupiah,Indonesia,TRUE,"$2,410.78 "
 688,D,$94.10 ,Rupiah,Indonesia,TRUE,"$2,883.73 "
 689,A,$61.90 ,Peso,Philippines,FALSE,$0.00 
@@ -782,7 +782,7 @@ user_id,plan,mensual_cost,currency,country,has_monthly_purchases,purchase_value_
 781,B,$142.62 ,Yuan Renminbi,China,FALSE,$0.00 
 782,C,$115.13 ,Rupiah,Indonesia,TRUE,"$2,688.09 "
 783,B,$113.64 ,Afghani,Afghanistan,TRUE,"$1,209.00 "
-784,D,$144.99 ,Peso,Mexico,TRUE,$828.74 
+784,D,$144.99 ,,Mexico,TRUE,$828.74 
 785,C,$67.08 ,Pound,Syria,FALSE,$0.00 
 786,D,$81.93 ,Manat,Azerbaijan,FALSE,$0.00 
 787,A,$67.59 ,Euro,Portugal,FALSE,$0.00 
@@ -798,7 +798,7 @@ user_id,plan,mensual_cost,currency,country,has_monthly_purchases,purchase_value_
 797,C,$131.98 ,Yuan Renminbi,China,FALSE,$0.00 
 798,D,$77.94 ,Euro,Ireland,FALSE,$0.00 
 799,A,$98.12 ,Ruble,Russia,TRUE,"$2,066.73 "
-800,D,$79.52 ,Real,Brazil,TRUE,$967.94 
+800,D,$79.52 ,,Brazil,TRUE,$967.94 
 801,C,$112.64 ,Ariary,Madagascar,FALSE,$0.00 
 802,A,$125.63 ,Rand,South Africa,TRUE,"$1,350.68 "
 803,B,$52.38 ,Euro,Finland,TRUE,"$1,588.36 "
@@ -904,7 +904,7 @@ user_id,plan,mensual_cost,currency,country,has_monthly_purchases,purchase_value_
 903,D,$141.11 ,Yuan Renminbi,China,FALSE,$0.00 
 904,C,$44.97 ,Peso,Argentina,FALSE,$0.00 
 905,B,$87.34 ,Euro,Finland,FALSE,$0.00 
-906,D,$133.27 ,Dollar,United States,TRUE,"$2,905.01 "
+906,D,$133.27 ,,United States,TRUE,"$2,905.01 "
 907,C,$58.22 ,Zloty,Poland,FALSE,$0.00 
 908,C,$117.80 ,Real,Brazil,TRUE,"$1,201.57 "
 909,B,$92.41 ,Peso,Philippines,TRUE,"$1,782.73 "
@@ -921,7 +921,7 @@ user_id,plan,mensual_cost,currency,country,has_monthly_purchases,purchase_value_
 920,A,$34.04 ,Dollar,Canada,FALSE,$0.00 
 921,A,$110.78 ,Dong,Vietnam,TRUE,$829.78 
 922,B,$126.51 ,Cordoba,Nicaragua,TRUE,"$1,501.25 "
-923,A,$126.41 ,Real,Brazil,TRUE,"$1,607.61 "
+923,A,$126.41 ,,Brazil,TRUE,"$1,607.61 "
 924,B,$62.66 ,Hryvnia,Ukraine,FALSE,$0.00 
 925,A,$117.31 ,Yuan Renminbi,China,FALSE,$0.00 
 926,B,$121.93 ,Yuan Renminbi,China,FALSE,$0.00 
